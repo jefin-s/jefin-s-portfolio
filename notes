@@ -1,0 +1,57 @@
+<section class="py-12 bg-base-200">
+  <div class="max-w-5xl mx-auto px-6">
+    <h2 class="text-3xl font-bold text-center mb-8">My Skills</h2>
+
+    <!-- Skill Badges -->
+    <div class="flex flex-wrap justify-center gap-3 mb-10">
+      <div class="badge badge-primary badge-lg">HTML</div>
+      <div class="badge badge-secondary badge-lg">CSS</div>
+      <div class="badge badge-accent badge-lg">JavaScript</div>
+      <div class="badge badge-info badge-lg">Tailwind CSS</div>
+    </div>
+
+    <!-- Skill Progress Bars -->
+    <div class="space-y-6">
+      <div>
+        <span class="font-semibold">HTML</span>
+        <progress class="progress progress-primary w-full" value="90" max="100"></progress>
+      </div>
+      <div>
+        <span class="font-semibold">CSS</span>
+        <progress class="progress progress-secondary w-full" value="85" max="100"></progress>
+      </div>
+      <div>
+        <span class="font-semibold">JavaScript</span>
+        <progress class="progress progress-accent w-full" value="75" max="100"></progress>
+      </div>
+      <div>
+        <span class="font-semibold">Tailwind CSS</span>
+        <progress class="progress progress-info w-full" value="80" max="100"></progress>
+      </div>
+    </div>
+  </div>
+  
+  
+</section>
+
+
+<!-- <section class="py-12 bg-base-200">
+  <div class="max-w-3xl mx-auto px-6">
+    <h2 class="text-3xl font-bold text-center mb-8">Education</h2>
+
+    <ul class="steps steps-vertical">
+      <li class="step step-primary">
+        <div class="ml-4">
+          <h3 class="font-bold">M.Sc. Computer Science</h3>
+          <p class="text-sm text-gray-500">2022 – 2024</p>
+        </div>
+      </li>
+      <li class="step step-primary">
+        <div class="ml-4">
+          <h3 class="font-bold">B.Sc. Electronics</h3>
+          <p class="text-sm text-gray-500">2019 – 2022</p>
+        </div>
+      </li>
+    </ul>
+  </div>
+</section> -->
